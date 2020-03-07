@@ -1,7 +1,7 @@
 # Changelog:
 * **1.4.10**
     - Added an automated renewal system for the license keys
-    - Fixed incorrectly implemented `whisper_no_targets` and `whisper_no_targets`
+    - Fixed incorrectly implemented `whisper_no_targets`
     - Fixed a bug that the channel required talk power gets lost after server restart
     - Fixed a query related crash after the server snapshot deploy function
     - Removed the obsolete commands `musicbotqueuelist`, `musicbotqueueadd`, `musicbotqueuereorder` and `musicbotqueueremove`
